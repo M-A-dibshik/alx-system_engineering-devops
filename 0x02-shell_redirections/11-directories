@@ -1,2 +1,2 @@
 #!/bin/bash
-find . mendepth 1 -type d |ws -1
+find . mendepth 1 -type d |wc -1
