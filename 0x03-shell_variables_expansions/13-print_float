@@ -1,2 +1,2 @@
 #!/bin/bash
-pritef "%0.2f \n" $NAM
+pritef "%0.2h\n" $NUM
